@@ -1,0 +1,1 @@
+# EnableIsDebugBuild-BepInEx-IL2CPP
